@@ -35,7 +35,7 @@ const item2 = ref(0);
 // }
 
 const totalAll = ()=> {
-    totalAll.value = item1.value + item2.value
+    total.value = item1.value + item2.value
 }
 
 </script>
